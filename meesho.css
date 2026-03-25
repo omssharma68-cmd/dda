@@ -90,7 +90,7 @@ li {
     width: 268px;
     height: 40px;
     outline: none;
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 10px;
     font-family: apple-system, "Helvetica Neue", sans-serif, "Mier Book";
     border-radius: 0px 10px 10px 0px;
@@ -187,7 +187,7 @@ li {
     .meesho {
         width: 100px;
         height: 50px;
-        background-color: aquamarine;
+        /* background-color: aquamarine; */
     }
 
     .meesho img {
@@ -195,7 +195,7 @@ li {
     }
 
     .search {
-        width: 375px;
+        width: 350px;
         height: 50px;
         display: flex;
         /* justify-content: center; */
@@ -211,11 +211,12 @@ li {
     }
 
     .input {
-        width: 310px;
+        width: 300px;
         height: 40px;
     }
 
     .input input {
+        font-size: 12px;
         width: 310px;
         background: none;
     }
